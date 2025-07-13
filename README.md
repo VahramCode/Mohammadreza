@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammadreza</h1>
 <h3 align="center">I'm a Python Developer 🐍 with a real passion for Linux 🐧. Currently, I'm diving deep into the exciting world of Machine Learning! 🤖📊</h3>
 
-- 🔭 I’m currently working on **R2 bot**
+- 🔭 I’m currently working on **R2 bot ( AI agent )**
 
 - 🌱 I’m currently learning **ML**
 
